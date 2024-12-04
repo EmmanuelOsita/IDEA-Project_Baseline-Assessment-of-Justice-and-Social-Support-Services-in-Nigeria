@@ -15,10 +15,6 @@ d.	The number of persons receiving justice and social support services provided 
 
 ![image](https://github.com/user-attachments/assets/89aefb22-5909-4a93-95bb-b45d85d540c7)
 
-![Uploading image.png…]()
-
-![Uploading image.png…]()
-
 ## Source of Data
 The data was gotten from discussions, interview and Focal Group Discussion (FGD) with women, Child Protection Network and relevant CSOs and stakeholders in were conducted. 
 
