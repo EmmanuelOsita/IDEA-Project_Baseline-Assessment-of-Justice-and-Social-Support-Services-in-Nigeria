@@ -3,6 +3,8 @@
 ## Project Overview
 
 The Purpose of this project is to assess the access of Justice and Social Support Services for Women, Children and Persons with Disabilities (PWDs) in Plateau & Abia States, Nigeria.
+
+### Objectives
 Specifically, the project intends to:
 
 a.	Evaluate the Disability Rights Law and how robust and all-encompassing the provisions of these laws are, compared to the Federal equivalent or to the equivalent law in states who are more advanced in access to justice reforms for vulnerable citizens such as Lagos State. 
@@ -12,6 +14,9 @@ b. The number of functional justice and social support services and the extent t
 c.	The number of Guidelines, Practice Directions, Operational Protocols etc. that have been adopted by the state government, or any of their agencies (prior to intervention of the RoLAC Programme) that enhances access to justice, for women, children, victims of violence and persons with disabilities. 
 
 d.	The number of persons receiving justice and social support services provided by Disability Desks in MDAs; Disability/VAPP/Child Rights Commission or Implementation Committees etc. 
+
+![image](https://github.com/user-attachments/assets/13f3edcf-679a-4dc4-9c2b-ecc99499426a)
+
 
 ![image](https://github.com/user-attachments/assets/89aefb22-5909-4a93-95bb-b45d85d540c7)
 
