@@ -4,7 +4,7 @@
 
 The Purpose of this project is to assess the access of Justice and Social Support Services for Women, Children and Persons with Disabilities (PWDs) in Plateau & Abia States, Nigeria.
 
-###### Objectives
+### Objectives:
 Specifically, the project intends to:
 
 a.	Evaluate the Disability Rights Law and how robust and all-encompassing the provisions of these laws are, compared to the Federal equivalent or to the equivalent law in states who are more advanced in access to justice reforms for vulnerable citizens such as Lagos State. 
