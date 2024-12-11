@@ -1,5 +1,8 @@
 # IDEA Project_Baseline Assessment of Justice and Social Support Services for Women, Children and Persons with Disabilities (PWDs) in Nigeria
 
+![image](https://github.com/user-attachments/assets/2be22c49-5d8f-4166-9583-d376e5a334e4)
+
+
 ## Project Overview
 
 The Purpose of this project is to assess the access of Justice and Social Support Services for Women, Children and Persons with Disabilities (PWDs) in Plateau & Abia States, Nigeria.
